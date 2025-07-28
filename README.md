@@ -1,6 +1,7 @@
+# Our Folder Structure
+
 PLEASE PROVIDE YOUR OWN INPUT BY MODIFYING FILES (PDFs && challenge1b_input.json) AND CHECK WITH THE OUTPUT OUR MODEL WILL DO ITS PART 😉 BROH!
 
-# Our Folder Structure
 
 Challenge_1b/
 ├── Collection 1/                    # Travel Planning
@@ -70,11 +71,6 @@ The script produces a challenge1b_output.json in each collection folder:
   ]
 }
 ```
-
-### SAMPLE OUTPUT YOU CAN CHECK
-
-<img width="1910" height="1017" alt="image" src="https://github.com/user-attachments/assets/f6710765-1a7c-4910-a080-6bce51368cd5" />
-
 
 ## Key Features
 
