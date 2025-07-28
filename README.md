@@ -2,7 +2,8 @@
 
 PLEASE PROVIDE YOUR OWN INPUT BY MODIFYING FILES (PDFs && challenge1b_input.json) AND CHECK WITH THE OUTPUT OUR MODEL WILL DO ITS PART 😉 BROH!
 
-
+## Project Structure
+```
 Challenge_1b/
 ├── Collection 1/                    # Travel Planning
 │   ├── PDFs/                       # South of France guides
@@ -17,6 +18,7 @@ Challenge_1b/
 │   ├── challenge1b_input.json      # Input configuration
 │   └── challenge1b_output.json     # Analysis results
 └── README.md
+```
 
 <img width="347" height="498" alt="image" src="https://github.com/user-attachments/assets/720011cc-a5ec-44c4-b9f2-cdd7d0fbee0e" />
 
