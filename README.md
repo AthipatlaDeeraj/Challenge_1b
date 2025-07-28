@@ -1,4 +1,4 @@
-# Our Folder Structure
+# Challenge 1b: Multi-Collection PDF Analysis
 
 PLEASE PROVIDE YOUR OWN INPUT BY MODIFYING FILES (PDFs && challenge1b_input.json) AND CHECK WITH THE OUTPUT OUR MODEL WILL DO ITS PART 😉 BROH!
 
